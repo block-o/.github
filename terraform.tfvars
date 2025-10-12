@@ -4,14 +4,14 @@ github_billing_email            = "no-reply@block-o.com"
 
 github_repositories = {
   ".github" = {
-    description     = ""
+    description     = "block-o organization config"
     visibility      = "public"
     has_issues      = false
     has_projects    = false
     has_wiki        = false
     has_downloads   = false
     has_discussions = false
-    topics          = ["github"]
+    topics          = ["github", "terraform"]
   }
 
   "operator" = {
@@ -36,14 +36,4 @@ github_repositories = {
     topics          = ["docker"]
   }
 
-  "organization-config" = {
-    description     = "block-o organization bootstrap"
-    visibility      = "public"
-    has_issues      = true
-    has_projects    = false
-    has_wiki        = false
-    has_downloads   = false
-    has_discussions = false
-    topics          = ["terraform"]
-  }
 }
