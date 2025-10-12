@@ -25,6 +25,17 @@ github_repositories = {
     topics          = ["go", "kubernetes"]
   }
 
+  "mockchain" = {
+    description     = "A mock blockchain implementation written in Go"
+    visibility      = "public"
+    has_issues      = true
+    has_projects    = false
+    has_wiki        = false
+    has_downloads   = false
+    has_discussions = false
+    topics          = ["go"]
+  }
+
   "containers" = {
     description     = "block-o container images"
     visibility      = "public"
