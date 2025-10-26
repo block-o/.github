@@ -1,5 +1,5 @@
 github_organization_name        = "block-o"
-github_organization_description = ""
+github_organization_description = "The house of the Block Operator"
 github_billing_email            = "no-reply@block-o.com"
 
 github_repositories = {
