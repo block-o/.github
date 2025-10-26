@@ -36,15 +36,4 @@ github_repositories = {
     topics          = ["go"]
   }
 
-  "containers" = {
-    description     = "block-o container images"
-    visibility      = "public"
-    has_issues      = true
-    has_projects    = false
-    has_wiki        = false
-    has_downloads   = false
-    has_discussions = false
-    topics          = ["docker"]
-  }
-
 }
