@@ -1,5 +1,5 @@
 github_organization_name        = "block-o"
-github_organization_description = ""
+github_organization_description = "The house of the Block Operator"
 github_billing_email            = "no-reply@block-o.com"
 
 github_repositories = {
@@ -34,17 +34,6 @@ github_repositories = {
     has_downloads   = false
     has_discussions = false
     topics          = ["go"]
-  }
-
-  "containers" = {
-    description     = "block-o container images"
-    visibility      = "public"
-    has_issues      = true
-    has_projects    = false
-    has_wiki        = false
-    has_downloads   = false
-    has_discussions = false
-    topics          = ["docker"]
   }
 
 }

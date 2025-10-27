@@ -137,4 +137,5 @@ resource "github_branch_protection" "main" {
   }
 
   enforce_admins = true
+
 }
